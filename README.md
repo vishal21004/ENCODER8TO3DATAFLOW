@@ -1,4 +1,6 @@
-### ENCODER 8TO3 DATAFLOW Modelling
+### EX:05 ENCODER 8TO3 DATAFLOW Modelling
+### REG NO: 212222230177
+### NAME: VISHAL M.A
 
 **AIM:**
 
@@ -52,9 +54,6 @@ assign b=din[2] | din[3] | din[6] | din[7];
 assign c=din[2] | din[4] | din[6] | din[7];
 endmodule
 ```
-Developed by: VISHAL M.A
-
-RegisterNumber:212222230177
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
