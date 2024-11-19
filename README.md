@@ -1,12 +1,13 @@
-### EX:05 ENCODER 8TO3 DATAFLOW Modelling
-### REG NO: 212222230177
-### NAME: VISHAL M.A
+# EX 05 : ENCODER 8TO3 DATAFLOW Modelling
+### Date : 17/10/24
 
 **AIM:**
 
 To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables
 
-**SOFTWARE REQUIRED:** Quartus prime
+**SOFTWARE REQUIRED:** 
+
+Quartus prime
 
 **THEORY**
 
@@ -46,6 +47,9 @@ Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in q
 
 **Encoder**
 ```
+REG NO: 212222230177
+NAME: VISHAL M.A
+
 module encoder_top(din, a, b, c); 
 input [0:7] din; 
 output a,b,c; 
